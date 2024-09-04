@@ -1,0 +1,196 @@
+[23-Feb-2024 19:28:08 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[23-Feb-2024 19:28:08 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[23-Feb-2024 19:28:08 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[23-Feb-2024 19:28:08 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[27-Feb-2024 15:48:32 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[27-Feb-2024 15:48:32 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[27-Feb-2024 15:48:32 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[27-Feb-2024 15:48:32 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[03-Mar-2024 10:58:30 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[03-Mar-2024 11:01:14 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[03-Mar-2024 21:06:22 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'carwaleac_accar.master_services' doesn't exist in /home/carwaleac/public_html/admin/function.php on line 473
+[03-Mar-2024 21:06:38 Asia/Kolkata] PHP Warning:  PDO::query(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'carwaleac_accar.master_services' doesn't exist in /home/carwaleac/public_html/admin/function.php on line 577
+[03-Mar-2024 21:06:38 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'carwaleac_accar.master_services' doesn't exist in /home/carwaleac/public_html/admin/function.php on line 208
+[03-Mar-2024 21:06:38 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'carwaleac_accar.master_services' doesn't exist in /home/carwaleac/public_html/admin/function.php on line 473
+[03-Mar-2024 21:06:39 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'carwaleac_accar.master_services' doesn't exist in /home/carwaleac/public_html/admin/function.php on line 473
+[04-Mar-2024 11:30:44 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[04-Mar-2024 11:31:35 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[04-Mar-2024 11:32:37 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[04-Mar-2024 11:33:31 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[04-Mar-2024 11:34:16 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[04-Mar-2024 11:35:04 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[04-Mar-2024 11:41:10 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[04-Mar-2024 14:49:08 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[04-Mar-2024 14:49:08 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[04-Mar-2024 14:49:08 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[04-Mar-2024 14:49:08 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[04-Mar-2024 22:40:29 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[04-Mar-2024 22:40:29 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[04-Mar-2024 22:40:29 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[04-Mar-2024 22:40:29 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[04-Mar-2024 22:40:44 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[04-Mar-2024 22:40:44 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[04-Mar-2024 22:40:44 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[04-Mar-2024 22:40:44 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[08-Mar-2024 12:10:33 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'meta_tag.name' in 'field list' in /home/carwaleac/public_html/admin/function.php on line 387
+[08-Mar-2024 12:12:34 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'meta_tag.name' in 'field list' in /home/carwaleac/public_html/admin/function.php on line 387
+[08-Mar-2024 12:12:59 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'meta_tag.name' in 'field list' in /home/carwaleac/public_html/admin/function.php on line 387
+[08-Mar-2024 12:15:02 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'meta_tag.name' in 'field list' in /home/carwaleac/public_html/admin/function.php on line 387
+[08-Mar-2024 12:15:05 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'meta_tag.name' in 'field list' in /home/carwaleac/public_html/admin/function.php on line 387
+[08-Mar-2024 12:15:53 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'meta_tag.name' in 'field list' in /home/carwaleac/public_html/admin/function.php on line 387
+[08-Mar-2024 12:17:09 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/carwaleac/public_html/admin/meta-tag.php on line 319
+[08-Mar-2024 12:29:14 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/carwaleac/public_html/admin/meta-tag.php on line 344
+[08-Mar-2024 12:29:32 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/carwaleac/public_html/admin/meta-tag.php on line 344
+[08-Mar-2024 18:41:00 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'carwaleac_accar.master_service' doesn't exist in /home/carwaleac/public_html/admin/function.php on line 473
+[08-Mar-2024 18:41:00 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'carwaleac_accar.master_service' doesn't exist in /home/carwaleac/public_html/admin/function.php on line 473
+[08-Mar-2024 18:41:00 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'carwaleac_accar.master_service' doesn't exist in /home/carwaleac/public_html/admin/function.php on line 473
+[12-Mar-2024 10:34:22 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[12-Mar-2024 10:34:22 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[12-Mar-2024 10:34:22 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[12-Mar-2024 10:34:22 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[12-Mar-2024 12:14:34 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[12-Mar-2024 12:14:34 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[12-Mar-2024 12:14:34 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[12-Mar-2024 12:14:34 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[12-Mar-2024 13:45:50 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[12-Mar-2024 13:45:50 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[12-Mar-2024 13:45:50 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[12-Mar-2024 13:45:50 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[13-Mar-2024 17:11:49 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[13-Mar-2024 17:11:49 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[13-Mar-2024 17:11:49 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[13-Mar-2024 17:11:49 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[13-Mar-2024 17:21:57 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 216
+[13-Mar-2024 17:22:10 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 216
+[13-Mar-2024 17:22:42 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 216
+[13-Mar-2024 17:22:42 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 223
+[13-Mar-2024 17:23:27 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 216
+[13-Mar-2024 17:23:27 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 223
+[13-Mar-2024 17:23:31 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 216
+[13-Mar-2024 17:23:31 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 223
+[13-Mar-2024 17:23:47 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 217
+[13-Mar-2024 17:23:47 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 224
+[13-Mar-2024 17:24:08 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 218
+[13-Mar-2024 17:24:08 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 225
+[13-Mar-2024 17:24:14 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 218
+[13-Mar-2024 17:24:14 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 225
+[13-Mar-2024 17:24:40 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 218
+[13-Mar-2024 17:24:40 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 225
+[13-Mar-2024 17:25:05 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 219
+[13-Mar-2024 17:25:05 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 226
+[13-Mar-2024 17:28:33 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 219
+[13-Mar-2024 17:28:33 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 226
+[13-Mar-2024 17:28:46 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 219
+[13-Mar-2024 17:28:46 Asia/Kolkata] PHP Notice:  Undefined variable: package_name in /home/carwaleac/public_html/admin/package_enquiry.php on line 226
+[13-Mar-2024 17:45:03 Asia/Kolkata] PHP Notice:  Undefined index: message in /home/carwaleac/public_html/admin/package_enquiry.php on line 234
+[17-Mar-2024 11:37:52 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[17-Mar-2024 11:37:52 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[17-Mar-2024 11:37:52 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[17-Mar-2024 11:37:52 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[23-Mar-2024 15:00:44 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[23-Mar-2024 15:00:44 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[23-Mar-2024 15:00:44 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[23-Mar-2024 15:00:44 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[23-Mar-2024 16:06:10 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[23-Mar-2024 16:06:10 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[23-Mar-2024 16:06:10 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[23-Mar-2024 16:06:10 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[23-Mar-2024 16:06:11 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[23-Mar-2024 16:06:11 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[23-Mar-2024 16:06:11 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[23-Mar-2024 16:06:11 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[27-Mar-2024 17:22:17 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[09-Apr-2024 00:09:07 Asia/Kolkata] PHP Notice:  Undefined variable: description in /home/carwaleac/public_html/admin/master_service_category.php on line 333
+[09-Apr-2024 00:09:12 Asia/Kolkata] PHP Notice:  Undefined variable: description in /home/carwaleac/public_html/admin/master_service_category.php on line 333
+[09-Apr-2024 00:09:56 Asia/Kolkata] PHP Notice:  Undefined variable: description in /home/carwaleac/public_html/admin/master_service_category.php on line 333
+[09-Apr-2024 00:09:59 Asia/Kolkata] PHP Notice:  Undefined variable: description in /home/carwaleac/public_html/admin/master_service_category.php on line 333
+[09-Apr-2024 00:21:09 Asia/Kolkata] PHP Notice:  Undefined variable: description in /home/carwaleac/public_html/admin/master_service_category.php on line 339
+[09-Apr-2024 00:21:50 Asia/Kolkata] PHP Notice:  Undefined index: description in /home/carwaleac/public_html/admin/master_service_category.php on line 295
+[09-Apr-2024 00:21:52 Asia/Kolkata] PHP Notice:  Undefined index: description in /home/carwaleac/public_html/admin/master_service_category.php on line 295
+[09-Apr-2024 00:21:55 Asia/Kolkata] PHP Notice:  Undefined index: description in /home/carwaleac/public_html/admin/master_service_category.php on line 295
+[09-Apr-2024 00:37:00 Asia/Kolkata] PHP Notice:  Undefined index: description in /home/carwaleac/public_html/admin/master_service_category.php on line 295
+[10-Apr-2024 23:16:32 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[11-Apr-2024 14:08:32 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[11-Apr-2024 14:09:32 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[11-Apr-2024 14:10:18 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[11-Apr-2024 14:11:48 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[11-Apr-2024 14:18:44 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[11-Apr-2024 14:20:24 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[11-Apr-2024 14:21:01 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[11-Apr-2024 14:57:09 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[11-Apr-2024 14:57:39 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[11-Apr-2024 14:58:10 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[11-Apr-2024 14:58:58 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[13-Apr-2024 12:32:41 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[13-Apr-2024 12:32:41 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[13-Apr-2024 12:32:41 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[13-Apr-2024 12:32:41 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 16:38:38 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 232
+[13-Apr-2024 17:33:33 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[13-Apr-2024 17:33:33 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[13-Apr-2024 17:33:33 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[13-Apr-2024 17:33:33 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[14-Apr-2024 23:37:17 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[14-Apr-2024 23:37:17 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[14-Apr-2024 23:37:17 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[14-Apr-2024 23:37:17 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[15-Apr-2024 17:10:55 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[19-Apr-2024 09:47:23 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[19-Apr-2024 09:47:23 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[19-Apr-2024 09:47:23 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[19-Apr-2024 09:47:23 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[27-Apr-2024 15:56:21 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[27-Apr-2024 15:56:21 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[27-Apr-2024 15:56:21 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[27-Apr-2024 15:56:21 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[27-Apr-2024 17:29:31 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[27-Apr-2024 17:30:18 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[27-Apr-2024 17:41:20 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[27-Apr-2024 17:44:53 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[27-Apr-2024 17:55:31 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[15-May-2024 16:13:18 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[15-May-2024 16:13:18 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[15-May-2024 16:13:18 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[15-May-2024 16:13:18 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
+[15-May-2024 16:15:08 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[15-May-2024 16:16:21 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[24-May-2024 10:40:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/carwaleac/public_html/admin/function.php:472
+Stack trace:
+#0 /home/carwaleac/public_html/admin/function.php(384): getTotalCount('SELECT setting_...')
+#1 /home/carwaleac/public_html/admin/control.php(29): retrieve('setting_theme', NULL, 'setting_theme.n...', '')
+#2 /home/carwaleac/public_html/admin/panel.php(2): include('/home/carwaleac...')
+#3 {main}
+  thrown in /home/carwaleac/public_html/admin/function.php on line 472
+[28-May-2024 12:58:20 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[28-May-2024 13:02:28 Asia/Kolkata] PHP Notice:  Undefined index: modelPhoto in /home/carwaleac/public_html/admin/master_model.php on line 25
+[28-May-2024 14:36:36 Asia/Kolkata] PHP Notice:  Undefined index: spass in /home/carwaleac/public_html/admin/control.php on line 9
+[28-May-2024 14:36:36 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/carwaleac/public_html/admin/control.php on line 10
+[28-May-2024 14:36:36 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /home/carwaleac/public_html/admin/control.php on line 11
+[28-May-2024 14:36:36 Asia/Kolkata] PHP Notice:  Undefined index: userid in /home/carwaleac/public_html/admin/control.php on line 12
